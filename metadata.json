@@ -1,0 +1,6 @@
+{
+  "name": "Charge Symbol Emulator",
+  "description": "An interactive mobile charging animation emulator featuring diverse high-fidelity themes, charging speeds, battery metrics, and gorgeous audio-visual simulation states.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
